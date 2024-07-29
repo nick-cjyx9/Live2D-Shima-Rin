@@ -12,6 +12,12 @@ Add a cute Rin chan to ur blog! 🤓
 <script>window.onload = () => window.loadShimaRin(document.getElementById('L2dCanvas'));</script>
 ```
 
+## Example
+
+My blog: https://nickchen.top
+
+![example](https://github.com/user-attachments/assets/3af1359a-dd25-45ff-b1e5-b2bdfe9e6325)
+
 ## Licenses
 
 - Shima Rin image copyright: 芳文社 (https://yurucamp.jp/)
